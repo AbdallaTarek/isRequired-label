@@ -1,5 +1,5 @@
 //
-//  isRequiredLableExtension.swift
+//  isRequiredLabelExtension.swift
 //
 //  Created by Abdullah Tarek
 //  https://www.linkedin.com/in/3bdullahtarek/
