@@ -4,7 +4,7 @@ isRequired-label is an extension to UILabel that creates required labels with a 
 
 ## Screenshots
 
-![Extension screenshot](https://github.com/AbdallaTarek/isRequired-lable/blob/main/screenShots/Screenshot%202023-03-18%20at%2010.16.42%20PM.png)
+![Extension screenshot](https://github.com/AbdallaTarek/isRequired-label/blob/main/Screen%20shot/Screenshot-1.png)
 
 ## Usage/Examples
 
@@ -52,7 +52,7 @@ extension UILabel {
 ```
 
 - After adding the extension navigate to attributes inspector and you will find the style option activated.
-![Usage](https://github.com/AbdallaTarek/isRequired-lable/blob/main/screenShots/Screenshot%202023-03-18%20at%2010.29.34%20PM.png)
+![Usage](https://github.com/AbdallaTarek/isRequired-label/blob/main/Screen%20shot/Screenshot-2.png)
 
 ## Feedback
 
